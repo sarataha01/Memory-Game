@@ -3,5 +3,4 @@ export default interface ICard{
     src: string;
     flip: string;
     clicked: boolean;
-    index: number
 }

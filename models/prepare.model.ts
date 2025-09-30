@@ -2,8 +2,8 @@ import ICard from "./card.model"
 
 export default interface IPrepare{
     cards: ICard[];
-    selectedCard1: ICard;
-    selectedCard2: ICard;
+    selectedCard1: ICard | null;
+    selectedCard2: ICard | null;
     selectedIndex1: number;
     selectedIndex2: number;
     progress: number;
