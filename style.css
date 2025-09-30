@@ -1,0 +1,33 @@
+#background{
+    background: url("./assets/brain.jpg");
+    width: 100%;
+    height: 100vh;
+}
+
+#whitearea{
+    background-color: white;
+    opacity: 0.7;
+    height: 70vh;
+}
+
+.progress{
+    position: relative;
+}
+
+.progress-label {
+  position: absolute;
+  inset: 0; 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none; 
+  z-index: 2;           
+  font-weight: 600;
+  color: white;
+}
+
+.progress .progress-bar {
+    
+  position: relative;
+  z-index: 1;
+}
