@@ -15,14 +15,14 @@ Flip the cards, match the pairs, and track your progress with a progress bar.
 - 📱 Responsive design (works on mobile and desktop)
 
 ## 🎮 Gameplay
-![Gameplay Screenshot](./assets/screenshots/gameplay.png)
+![Gameplay Screenshot](./screenshots/gameplay.png)
 
 ## 📱 Responsiveness
 ### Small screen
-![Small Screen](./assets/screenshots/small.png)
+![Small Screen](./screenshots/small.png)
 
 ### Medium screen
-![Medium Screen](./assets/screenshots/md.png)
+![Medium Screen](./screenshots/md.png)
 
 ### Large screen
-![Large Screen](./assets/screenshots/lrg.png)
+![Large Screen](./screenshots/lrg.png)
