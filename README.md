@@ -6,7 +6,7 @@ Flip the cards, match the pairs, and track your progress with a progress bar.
 ## 🛠️ Tech Stack
 - **TypeScript** for game logic
 - **HTML / CSS** for layout and styling
-- **Bootstrap 5** for responsive design
+- **Bootstrap** for responsive design
 
 ## 🚀 Features
 - 🎴 Flip cards and find matching pairs
