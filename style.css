@@ -6,11 +6,14 @@
     background-repeat: repeat;   
 }
 
-#whitearea{
-    background-color: white;
-    opacity: 0.8;
-    height: auto;
-    padding: 16px;
+#whitearea {
+  background-color: white;
+  opacity: 0.9;
+  padding: 16px;
+  height: auto;       
+  max-height: 90vh;  
+  overflow-y: auto;   
+  border-radius: 8px;  
 }
 
 .progress{
